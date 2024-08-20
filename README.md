@@ -7,8 +7,13 @@ Explore my solutions to data structures and algorithms problems from platforms l
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0162-find-peak-element) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0162-find-peak-element) |
+## Sliding Window
+|  |
+| ------- |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 <!---LeetCode Topics End-->
