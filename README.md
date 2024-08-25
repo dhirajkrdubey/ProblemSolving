@@ -21,10 +21,12 @@ Explore my solutions to data structures and algorithms problems from platforms l
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0441-arranging-coins) |
+| [0564-find-the-closest-palindrome](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 ## Simulation
 |  |
