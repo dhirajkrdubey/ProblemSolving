@@ -26,10 +26,15 @@ Explore my solutions to data structures and algorithms problems from platforms l
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
 | [0564-find-the-closest-palindrome](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
