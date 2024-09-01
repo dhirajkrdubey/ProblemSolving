@@ -7,6 +7,7 @@ Explore my solutions to data structures and algorithms problems from platforms l
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0162-find-peak-element) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
 |  |
@@ -33,8 +34,13 @@ Explore my solutions to data structures and algorithms problems from platforms l
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0459-repeated-substring-pattern) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
