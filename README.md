@@ -6,6 +6,7 @@ Explore my solutions to data structures and algorithms problems from platforms l
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0162-find-peak-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -13,6 +14,7 @@ Explore my solutions to data structures and algorithms problems from platforms l
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0441-arranging-coins) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -47,6 +49,7 @@ Explore my solutions to data structures and algorithms problems from platforms l
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dhirajkrdubey/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
